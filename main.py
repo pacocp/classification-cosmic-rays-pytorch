@@ -26,9 +26,9 @@ params = {'batch_size': 64,
           'num_workers': 12}
 
 # Global Parameters
-numItera = 5 #(5 barajes de de los datos train/test, ojo no validación)
-output_size = 2 #numero de clases (en este caso hadro vs photon)
-units_CNN = [50, 10, 100, 100] # empirico
+numItera = 5 # number of iterations to repeat
+output_size = 2 # number of classes
+units_CNN = [50, 10, 100, 100]
 units_NN = [50, 20, 10] 
 
 if __name__ == '__main__':
