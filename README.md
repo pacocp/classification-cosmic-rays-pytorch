@@ -1,7 +1,7 @@
 # Improving Classification of Ultra-High Energy Cosmic Rays Using Spacial Locality by means of a Convolutional DNN
 ## F. Carrillo-Perez, L.J. Herrera, J.M. Carceller & A. Guillén
 
-Code for the conference paper [https://www.springerprofessional.de/en/improving-classification-of-ultra-high-energy-cosmic-rays-using-/16772468]("Improving Classification of Ultra-High Energy Cosmic Rays Using Spacial Locality by means of a Convolutional DNN")
+Code for the conference paper (https://www.springerprofessional.de/en/improving-classification-of-ultra-high-energy-cosmic-rays-using-/16772468)["Improving Classification of Ultra-High Energy Cosmic Rays Using Spacial Locality by means of a Convolutional DNN"]
 presented at the International Work-Conference on Artificial Neural Networks 2019 in Gran Canaria, Spain.
 
 ### Disclaimer
