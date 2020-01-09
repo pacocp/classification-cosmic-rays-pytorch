@@ -26,7 +26,7 @@ If you find this work useful for your research, please cite:
 
 ### Contact
 
-Please contact me if there is any question (Francisco Carrillo-Perez: franciscocp@correo.ugr.es).
+Please contact me if there is any question (Francisco Carrillo-Perez: franciscocp@ugr.es).
 
 ### License
 
