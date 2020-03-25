@@ -11,7 +11,6 @@ import torch
 from torch import nn
 
 from sklearn.model_selection import train_test_split
-from imblearn.under_sampling import RandomUnderSampler
 import numpy as np
 import matplotlib
 matplotlib.use('Agg')
@@ -147,7 +146,7 @@ for i in range(numItera):
     for cls in range(output_size):
         try:
             F1Score[cls] = 2.*cm.conf[cls, cls]/(np.sum(cm.conf[cls, :])+np.sum(cm.conf[:, cls]))
-        except:
+        except SystemExit:
             pass
 
     print("F1Score: ")
